@@ -1,5 +1,8 @@
 # gen-ai-cold-email-generator
 
+![image](https://github.com/user-attachments/assets/c0406043-8871-43a9-b9fb-784a9f699b6d)
+
+
 An end-to-end LLM project creates a cold email generator using Llama 3.1, ChromaDB, LangChain, and Streamlit to streamline outreach for software service companies.<br>
 
 Highlights<br>
