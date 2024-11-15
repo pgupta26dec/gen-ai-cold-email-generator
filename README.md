@@ -2,7 +2,7 @@
 
 An end-to-end LLM project creates a cold email generator using Llama 3.1, ChromaDB, LangChain, and Streamlit to streamline outreach for software service companies.<br>
 
-Highlights
+Highlights<br>
 📧 Cold Email Generator: Simplifies outreach for software services.<br>
 💻 Llama 3.1: Utilizes powerful open-source LLM for email crafting.<br>
 🗃️ ChromaDB: Employs vector database for skill and portfolio matching.<br>
