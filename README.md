@@ -1,15 +1,15 @@
 # gen-ai-cold-email-generator
 
-An end-to-end LLM project creates a cold email generator using Llama 3.1, ChromaDB, LangChain, and Streamlit to streamline outreach for software service companies.
+An end-to-end LLM project creates a cold email generator using Llama 3.1, ChromaDB, LangChain, and Streamlit to streamline outreach for software service companies.<br>
 
 Highlights
-📧 Cold Email Generator: Simplifies outreach for software services. \n
-💻 Llama 3.1: Utilizes powerful open-source LLM for email crafting. \n
-🗃️ ChromaDB: Employs vector database for skill and portfolio matching.\n
-🌐 LangChain: Facilitates web scraping and data extraction effectively.\n
-🚀 Streamlit UI: Builds a user-friendly interface for project interaction.\n
-🌍 Real-World Application: Designed for companies like TCS and Infosys.\n
-👨‍💼 Sales Efficiency: Aids business development in competitive markets.\n\n
+📧 Cold Email Generator: Simplifies outreach for software services.<br>
+💻 Llama 3.1: Utilizes powerful open-source LLM for email crafting.<br>
+🗃️ ChromaDB: Employs vector database for skill and portfolio matching.<br>
+🌐 LangChain: Facilitates web scraping and data extraction effectively.<br>
+🚀 Streamlit UI: Builds a user-friendly interface for project interaction.<br>
+🌍 Real-World Application: Designed for companies like TCS and Infosys.<br>
+👨‍💼 Sales Efficiency: Aids business development in competitive markets.<br><br>
 Key Insights
 📈 Market Need: The project addresses the competitive landscape of software services by improving cold email strategies, essential for winning projects.\n
 🤖 LLM Utilization: Using Llama 3.1 allows for sophisticated text generation, enhancing the quality of outreach communication to potential clients.\n
