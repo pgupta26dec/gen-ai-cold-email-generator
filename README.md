@@ -10,11 +10,12 @@ Highlights
 🚀 Streamlit UI: Builds a user-friendly interface for project interaction.<br>
 🌍 Real-World Application: Designed for companies like TCS and Infosys.<br>
 👨‍💼 Sales Efficiency: Aids business development in competitive markets.<br><br>
-Key Insights
-📈 Market Need: The project addresses the competitive landscape of software services by improving cold email strategies, essential for winning projects.\n
-🤖 LLM Utilization: Using Llama 3.1 allows for sophisticated text generation, enhancing the quality of outreach communication to potential clients.\n
-🧠 Skill Extraction: The integration of ChromaDB enables precise retrieval of skills and relevant portfolios, ensuring tailored emails that resonate with client needs.\n
-🔍 Web Scraping: Implementing LangChain for web scraping job postings automates data acquisition, reducing manual effort and increasing efficiency.\n
-🖥️ User Experience: The Streamlit interface simplifies usage, making the cold email generator accessible even to non-technical users.\n
-💼 Business Development Tool: This tool serves a practical purpose in real-world scenarios, demonstrating its applicability for service providers in the tech industry.\n
-🌐 Future Scalability: The framework and structure laid out in this project can be expanded to include additional functionalities, catering to evolving business needs.\n
+<hr>
+Key Insights<br>
+📈 Market Need: The project addresses the competitive landscape of software services by improving cold email strategies, essential for winning projects.<br>
+🤖 LLM Utilization: Using Llama 3.1 allows for sophisticated text generation, enhancing the quality of outreach communication to potential clients.<br>
+🧠 Skill Extraction: The integration of ChromaDB enables precise retrieval of skills and relevant portfolios, ensuring tailored emails that resonate with client needs.<br>
+🔍 Web Scraping: Implementing LangChain for web scraping job postings automates data acquisition, reducing manual effort and increasing efficiency.<br>
+🖥️ User Experience: The Streamlit interface simplifies usage, making the cold email generator accessible even to non-technical users.<br>
+💼 Business Development Tool: This tool serves a practical purpose in real-world scenarios, demonstrating its applicability for service providers in the tech industry.<br>
+🌐 Future Scalability: The framework and structure laid out in this project can be expanded to include additional functionalities, catering to evolving business needs.<br>
